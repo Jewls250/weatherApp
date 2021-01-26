@@ -1,0 +1,20 @@
+#navText{
+    font-size: 40px;
+}
+
+.width{
+   width: 100% ; 
+}
+
+body{
+   background-image: linear-gradient(to right, #434343 0%, black 100%);
+ background-repeat: no-repeat;
+}
+
+nav{
+    border-bottom: solid white ;
+}
+
+.row{
+    text-align: center;
+}
