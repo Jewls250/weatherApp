@@ -11,7 +11,7 @@
 
 body{
     background-image: url('wolfgang-hasselmann-bR_-gllg7Bs-unsplash.jpg');
-    min-height: 800px;
+    min-height: 900px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,8 +37,8 @@ nav{
     font-weight: 600;
 }
 
-footer{
+/* footer{
     -webkit-text-stroke: 1px rgb(0, 0, 0);
     font-size: 65px;
     font-weight: 600;
-}
+} */
