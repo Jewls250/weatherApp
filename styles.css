@@ -1,5 +1,8 @@
 #navText{
     font-size: 40px;
+    -webkit-text-stroke: 2.5px rgb(0, 0, 0);
+    font-size: 65px;
+    font-weight: 600;
 }
 
 .width{
@@ -22,4 +25,20 @@ nav{
 
 .row{
     text-align: center;
+}
+
+#marginTop{
+    margin-top: 35px;
+}
+
+#outline{
+    -webkit-text-stroke: 2.5px rgb(0, 0, 0);
+    font-size: 65px;
+    font-weight: 600;
+}
+
+footer{
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    font-size: 65px;
+    font-weight: 600;
 }
