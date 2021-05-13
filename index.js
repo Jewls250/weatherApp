@@ -21,7 +21,7 @@ $("#searchCity").click((e) => {
     $("#humidity").append(humidity)
     $("#kelvinTemp").append(kelvinTemp)
 
-
+  
     })
 });
 

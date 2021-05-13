@@ -7,8 +7,13 @@
 }
 
 body{
-   background-image: linear-gradient(to right, #434343 0%, black 100%);
- background-repeat: no-repeat;
+    background-image: url('wolfgang-hasselmann-bR_-gllg7Bs-unsplash.jpg');
+    min-height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: 56px;
 }
 
 nav{
